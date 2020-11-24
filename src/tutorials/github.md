@@ -190,7 +190,7 @@ Once the project is finished pulling the changes, click the **History** tab to c
 
 ### Push New Changes
 
-You do not need to immediately push after every commit, but it is a good idea to push all your changes whenever your stop working.
+You do not need to immediately push after every commit, but it is a good idea to push all your changes whenever you stop working.
 
 After committing your most recent changes, click the **Push origin** button to send all the commits made since your last push up to the remote version of the project.
 
